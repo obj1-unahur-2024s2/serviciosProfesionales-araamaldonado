@@ -1,9 +1,10 @@
 import example.pepita
 
 describe "group of tests for pepita" {
+  const asocLitoral = new
 
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+  test "Asociados al litoral" {
+    assert.equals
   }
 
 }
